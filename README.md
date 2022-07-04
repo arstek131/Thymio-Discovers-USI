@@ -1,6 +1,10 @@
 # Thymio-Discover-USI
 Final project for Robotics course @ USI 21/22.
 
+**Final Score:** 85,50/100
+
+Final report can be found [here](https://github.com/arstek131/Thymio-Discover-USI/blob/main/Ali_Robotics_Project.pdf)
+
 ## Usage
 
 This project requires [Pytorch](https://pytorch.org/) to run.
