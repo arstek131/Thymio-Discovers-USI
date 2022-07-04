@@ -41,3 +41,6 @@ And finally launch the node
 cd thymio_discover_USI/scripts
 python3 thymio_random.py
 ```
+
+## License
+All the code available under the MIT + Apache 2.0. licenses. See [LICENSE](LICENSE).
