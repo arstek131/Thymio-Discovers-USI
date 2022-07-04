@@ -5,6 +5,10 @@ Final project for Robotics course @ USI 21/22.
 
 Final report can be found [here](https://github.com/arstek131/Thymio-Discover-USI/blob/main/Ali_Robotics_Project.pdf)
 
+## Details
+
+The main idea is to reproduce an environment as much as similar as [USI](https://www.usi.ch/it) west and east campus in a simulated world, where the Thymio navigate through it without crashing and in the meanwhile recognize objects using a real time object detection algorithm
+
 ## Usage
 
 This project requires [Pytorch](https://pytorch.org/).
