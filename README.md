@@ -9,6 +9,8 @@ Final report can be found [here](https://github.com/arstek131/Thymio-Discover-US
 
 The main idea is to reproduce an environment as much as similar as [USI](https://www.usi.ch/it) west and east campus in a simulated world, where the Thymio navigate through it without crashing and in the meanwhile recognize objects using a real time object detection algorithm
 
+![](https://github.com/arstek131/Thymio-Discover-USI/blob/main/gif_example.gif)
+
 ## Usage
 
 This project requires [Pytorch](https://pytorch.org/).
