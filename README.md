@@ -7,7 +7,7 @@ Final report can be found [here](https://github.com/arstek131/Thymio-Discover-US
 
 ## Usage
 
-This project requires [Pytorch](https://pytorch.org/) to run.
+This project requires [Pytorch](https://pytorch.org/).
 In order to run it follow these steps in a terminal:
 
 ```sh
